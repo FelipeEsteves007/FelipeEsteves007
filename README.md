@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 <p align="center">
-  <h1>🚀 Felipe Esteves — Mobile Developer </span>!</h1>
+  <h1> Felipe Esteves — Mobile Developer </span>!</h1>
   <br>
   I'm a Mobile Developer focused on building high-quality apps with Flutter and React Native. I'm passionate about creating practical and intuitive digital solutions, integrating well-structured code, beautiful UI/UX, and efficient logic to build apps that truly make a difference.
 </p>
