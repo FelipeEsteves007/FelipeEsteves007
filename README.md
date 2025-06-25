@@ -1,4 +1,9 @@
-<p align="center">Hello, my name is Felipe Esteves! <br><br> I'm a Mobile Developer focused on building high-quality apps with Flutter and React Native. I'm passionate about creating practical and intuitive digital solutions, integrating well-structured code, beautiful UI/UX, and efficient logic to build apps that truly make a difference.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<p align="center">
+  <h1>🚀 Felipe Esteves — Mobile Developer </span>!</h1>
+  <br>
+  I'm a Mobile Developer focused on building high-quality apps with Flutter and React Native. I'm passionate about creating practical and intuitive digital solutions, integrating well-structured code, beautiful UI/UX, and efficient logic to build apps that truly make a difference.
+</p>
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FelipeEsteves007&theme=radical&mode=weekly" />
@@ -14,6 +19,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-API-6E40C9?style=for-the-badge&logo=api&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
