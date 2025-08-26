@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<h1 align="center">Felipe Esteves — Mobile Developer</h1>
+<h1 align="center">Felipe Esteves — Software Developer </h1>
 
 <p align="center">
   I'm a Mobile Developer focused on building high-quality apps with <strong>Flutter</strong> and <strong>React Native</strong>.<br>
-  I'm passionate about creating practical and intuitive digital solutions, integrating well-structured code,<br>
+  I'm passionate about creating practical and intuitive digital 
+solutions, integrating well-structured code,<br>
   beautiful UI/UX, and efficient logic to build apps that truly make a difference.
 </p>
 
