@@ -3,10 +3,8 @@
 <h1 align="center">Felipe Esteves — Software Developer </h1>
 
 <p align="center">
-  I'm a Mobile Developer focused on building high-quality apps with <strong>Flutter</strong> and <strong>React Native</strong>.<br>
-  I'm passionate about creating practical and intuitive digital 
-solutions, integrating well-structured code,<br>
-  beautiful UI/UX, and efficient logic to build apps that truly make a difference.
+  I'm a Mobile Developer focused on building high-quality apps with Flutter and React Native,
+and also experienced in Delphi for desktop and legacy system integration.
 </p>
 
 ---
