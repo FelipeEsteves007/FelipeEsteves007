@@ -64,6 +64,10 @@ and also experienced in Delphi for desktop and legacy system integration.
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://firebirdsql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Firebird-EE1C25?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTYuMDU0IDIuNTA4Yy0uMDU2IDAtLjExMyAwLS4xNzMuMDAyQzcuMzgxIDIuNjUxIDAuNSAxMC4zMzUgMC41IDIwLjAwNWMwIDUuNjIgMi4wNDUgMTAuNjg0IDUuMzgzIDE0LjQ2MyAxLjU4NC0xLjc2NiAyLjYxMy0zLjUwOCAzLjE2NC01LjA2Ni0yLjcxLTEuMDI0LTQuNDYzLTMuNjg5LTQuNDYzLTYuMzM3IDAtMy41NjMgMy4wMTItNi41NjYgNi43NDctNi41NjYgMy42ODYgMCA2LjY2OCAzLjAwMyA2LjY2OCA2LjU2NiAwIDIuNjUyLTEuNzUyIDUuMzExLTQuNDUzIDYuMzQ2LjU0NiAxLjU2MyAxLjU3NCAzLjMwMSAzLjE2OCA1LjA2NyAzLjMzOC0zLjc3OSw1LjM4My04Ljg0Myw1LjM4My0xNC40NjMgMC05LjY3LTEuODgxLTE3LjM1NS05LjM3OS0xNy40OTctLjA2LS4wMDItLjExNy0uMDAyLS4xNzMtLjAwMnoiLz48L3N2Zz4=" alt="Firebird" height="28">
+</a>
+
 
 ---
 
