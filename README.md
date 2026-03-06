@@ -44,6 +44,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IBExpert](https://img.shields.io/badge/IBExpert-005A9C?style=for-the-badge&logo=firebird&logoColor=white)
 
 ---
 
