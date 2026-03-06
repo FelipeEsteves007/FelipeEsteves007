@@ -2,13 +2,6 @@
 
 <h1 align="center">Felipe Esteves — Software Developer </h1>
 
-<p align="center">
-  I'm a Mobile Developer focused on building high-quality apps with Flutter and React Native,
-and also experienced in Delphi for desktop and legacy system integration.
-</p>
-
----
-
 <h2>📊 GitHub Stats</h2>
 
 <table align="center">
@@ -35,15 +28,9 @@ and also experienced in Delphi for desktop and legacy system integration.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EA1F1F?style=for-the-badge&logo=delphi&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-6E40C9?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![POO](https://img.shields.io/badge/OOP-Concepts-007ACC?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration">
@@ -52,21 +39,20 @@ and also experienced in Delphi for desktop and legacy system integration.
 
 ### 🧰 Tools I Use:
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🛢️ Databases:
 
+![Firebird](https://img.shields.io/badge/Firebird-EE1C25?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZpcmViaXJkPC90aXRsZT48cGF0aCBkPSJNMTIuMDQ0IDIuNTA4Yy0uMDU2IDAtLjExMyAwLS4xNzMuMDAyQzcuMzgxIDIuNjUxIDAuNSAxMC4zMzUgMC41IDIwLjAwNWMwIDUuNjIgMi4wNDUgMTAuNjg0IDUuMzgzIDE0LjQ2MyAxLjU4NC0xLjc2NiAyLjYxMy0zLjUwOCAzLjE2NC01LjA2Ni0yLjcxLTEuMDI0LTQuNDYzLTMuNjg5LTQuNDYzLTYuMzM3IDAtMy41NjMgMy4wMTItNi41NjYgNi43NDctNi41NjYgMy42ODYgMCA2LjY2OCAzLjAwMyA2LjY2OCA2LjU2NiAwIDIuNjUyLTEuNzUyIDUuMzExLTQuNDUzIDYuMzQ2LjU0NiAxLjU2MyAxLjU3NCAzLjMwMSAzLjE2OCA1LjA2NyAzLjMzOC0zLjc3OSw1LjM4My04Ljg0Myw1LjM4My0xNC40NjMgMC05LjY3LTEuODgxLTE3LjM1NS05LjM3OS0xNy40OTctLjA2LS4wMDItLjExNy0uMDAyLS4xNzMtLjAwMnoiLz48L3N2Zz4=)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-<a href="https://firebirdsql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Firebird-EE1C25?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTYuMDU0IDIuNTA4Yy0uMDU2IDAtLjExMyAwLS4xNzMuMDAyQzcuMzgxIDIuNjUxIDAuNSAxMC4zMzUgMC41IDIwLjAwNWMwIDUuNjIgMi4wNDUgMTAuNjg0IDUuMzgzIDE0LjQ2MyAxLjU4NC0xLjc2NiAyLjYxMy0zLjUwOCAzLjE2NC01LjA2Ni0yLjcxLTEuMDI0LTQuNDYzLTMuNjg5LTQuNDYzLTYuMzM3IDAtMy41NjMgMy4wMTItNi41NjYgNi43NDctNi41NjYgMy42ODYgMCA2LjY2OCAzLjAwMyA2LjY2OCA2LjU2NiAwIDIuNjUyLTEuNzUyIDUuMzExLTQuNDUzIDYuMzQ2LjU0NiAxLjU2MyAxLjU3NCAzLjMwMSAzLjE2OCA1LjA2NyAzLjMzOC0zLjc3OSw1LjM4My04Ljg0Myw1LjM4My0xNC40NjMgMC05LjY3LTEuODgxLTE3LjM1NS05LjM3OS0xNy40OTctLjA2LS4wMDItLjExNy0uMDAyLS4xNzMtLjAwMnoiLz48L3N2Zz4=" alt="Firebird" height="28">
-</a>
 
 
 ---
